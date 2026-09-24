@@ -1,0 +1,3 @@
+Python Programming,John Smith,450
+Data Structures,Robert Brown,550
+Computer Networks,James Lee,600
