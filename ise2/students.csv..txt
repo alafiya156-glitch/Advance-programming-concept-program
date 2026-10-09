@@ -1,0 +1,11 @@
+csv
+RollNo,Name,Maths,Science,English,Computer,Social
+101,Amit,85,90,78,95,88
+102,Priya,92,88,95,98,91
+103,Rahul,45,50,55,60,48
+104,Sneha,76,82,80,85,79
+105,Vijay,30,35,40,45,38
+106,Neha,88,92,86,90,94
+107,Arjun,65,70,68,75,72
+108,Pooja,55,48,62,58,60
+Each subject is marked out of 100. The pass percentage is 40%.
